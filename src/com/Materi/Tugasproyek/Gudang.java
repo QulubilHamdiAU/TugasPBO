@@ -1,4 +1,4 @@
-package com.pbo.Tugasproyek;
+package com.Materi.Tugasproyek;
 
 import java.util.Scanner;
 import java.util.InputMismatchException;

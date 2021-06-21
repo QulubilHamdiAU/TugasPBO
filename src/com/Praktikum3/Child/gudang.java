@@ -1,6 +1,6 @@
-package Praktikum3.Kegiatan12.Child;
+package com.Praktikum3.Child;
 
-import Praktikum3.Kegiatan12.Parent.Struktur;
+import com.Praktikum3.Parent.Struktur;
 
 public class gudang extends Struktur {
 

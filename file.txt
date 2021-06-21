@@ -1,0 +1,5 @@
+
+Hamdi,kalkulus,90
+Sahis,kalkulus,85
+hamdi,pbo,95
+hamdi,3,90

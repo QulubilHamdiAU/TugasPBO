@@ -1,9 +1,9 @@
-package Praktikum3.Kegiatan12.Parent;
+package com.Praktikum3.Parent;
 
-import Praktikum3.Kegiatan12.Child.supervisor;
-import Praktikum3.Kegiatan12.Child.kasir;
-import Praktikum3.Kegiatan12.Child.gudang;
-import Praktikum3.Kegiatan12.Child.kebersihan;
+import com.Praktikum3.Child.supervisor;
+import com.Praktikum3.Child.kasir;
+import com.Praktikum3.Child.gudang;
+import com.Praktikum3.Child.kebersihan;
 
 public class Main {
     public static void main(String[] args) {

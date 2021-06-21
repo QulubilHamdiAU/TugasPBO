@@ -1,4 +1,4 @@
-package Praktikum3.Kegiatan12.Parent;
+package com.Praktikum3.Parent;
 
 public class Struktur {
 

@@ -1,4 +1,4 @@
-package com.pbo;
+package com.Materi;
 
 public class Penduduk {
     private String Nik;
